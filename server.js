@@ -13,4 +13,4 @@ app.use('mahasiswa', mahsiswaController);
 // Jalanakan server 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
-})
+});
