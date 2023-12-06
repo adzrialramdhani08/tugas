@@ -1,2 +1,2 @@
 # tugas
-tugas
+tugas pratikum
